@@ -1,4 +1,5 @@
-## Goals App
+## Goals App - React Native Project
+
 
 #### Preview:
 
